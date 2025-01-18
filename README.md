@@ -85,7 +85,3 @@ Contributions are welcome! Feel free to open an issue or submit a pull request f
 ## Author
 
 Med Amine
-
----
-
-Feel free to customize this README further to suit your repository's needs!
